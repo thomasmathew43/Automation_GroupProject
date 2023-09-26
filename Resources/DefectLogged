@@ -1,0 +1,60 @@
+functional Defect 
+
+Defect 1 (Missing Functional Defect)
+
+Registration not mention Gender type of Transgender,etc..
+
+        User Registration with Book cart application Gender has mention only two type. suppose user have another type of male and female.user not able to select the gender
+        generally 4 type of gender commonly described but Bookcart application has mention only 2 type of gender only remaining gender not described.
+        
+        
+Defect 2 (missing Functional Defect)
+
+ Login not added Forget Password   
+  
+        User Registration successfully  with Bookcart Application.user has forget Username or password there is no possible to continue with book cart application.Because of no functionality add forget password option
+
+
+Defect 3 (missing Functional Defect)
+            
+ notification not received
+ 
+        User  Registration and login successfully  with Bookcart Application.user has not received any notification from Book cart application.Registration not include the phone number and email id.user order book with book cart how to receive any notification.
+
+
+Defect 4 (Wrong Functional Defect)
+
+search functionality not working properly
+
+      user entry with wrong number or wrong books name and apply for search. user get same page for again.wrong input from user ther is no show error or anthing simply user get same page for again.
+
+
+Defect 5 (Missing functional Defect)
+
+order option is missing
+
+user able to Purchase specific books and select the books  there is no option to directly order the particular books option. user first add the cart then open the cart and order the books.order option is missing.
+
+
+Defect 6 (Missing Functional Defect)
+
+user suppose wrongly add the more item for cart. the cart not showing separtly for quantity its showing total quantity.
+
+
+defect 7 (Extra functional Defect )
+
+user after the order the product. my order page has extra  mention 1 number 
+
+
+Defect 8 (wrong functional Defect)
+
+user able to order more number of Quantity theMy orders list page has only 1 of 1 page but shows wrongly has 2 0f 2 page	
+             
+             
+Defect 9 (Missing Functional Defect) 
+
+payment mode option & method of payment is missing
+
+
+user after the place order page for particular book there is no any payment mode process. the book cart mention every book has some specific amount but able to purchase particular book there is no any payment methods pay to purchase
+            
